@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
                     playButton.setVisibility(view.VISIBLE);
                     winnerTextview.setVisibility(view.VISIBLE);
                 }
+                // Draw situation
                 if(gameStats[0] != -1 && gameStats[1] != -1 && gameStats[2] != -1 && gameStats[3] != -1 && gameStats[4] != -1 && gameStats[5] != -1 && gameStats[6] != -1 && gameStats[7] != -1 && gameStats[8] != -1)
                 {
                     gameActive = false;
