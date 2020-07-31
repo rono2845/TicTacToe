@@ -1,7 +1,7 @@
 # TicTacToe
 An Android APK that allows 1v1 game.
 
-__RULES__
+**__RULES__
 
 1) __The game is played on a grid that's 3 squares by 3 squares.__
 2) __You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.__
